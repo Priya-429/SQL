@@ -12,3 +12,4 @@ QUESTIONS:
 -- 8. JOIN RELEVANT TABLES TO FIND THE CATEGORY-WISE DISTRIBUTION OF PIZZAS.-- 
 -- 9.GROUP THE ORDERS BY DATE AND CALCULATE THE AVERAGE NUMBER OF PIZZAS ORDERED PER DAY.-- 
 -- 10.DETERMINE THE TOP 3 MOST ORDERED PIZZA TYPES BASED ON REVENUE.-- 
+[Maroon and Red Modern Sales Report Presentation (1).pdf](https://github.com/user-attachments/files/16318557/Maroon.and.Red.Modern.Sales.Report.Presentation.1.pdf)
